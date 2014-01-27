@@ -8,7 +8,7 @@
 ###########################################
 #                                         #
 # Run With Command:                       #
-# => run rake check_publish_dates         #
+# => run rake run_scheduled_task         #
 #                                         #
 ###########################################
 
